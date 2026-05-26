@@ -130,3 +130,7 @@ Power BI Developer | Data Analytics Enthusiast
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
+
+## Demo Video
+
+[Watch Video](https://drive.google.com/file/d/1mVZpDoAvdRcuvj8QluAyRbNaXtKkBL1t/view?usp=drive_link)
